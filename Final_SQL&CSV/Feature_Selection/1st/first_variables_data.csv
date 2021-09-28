@@ -1,0 +1,2 @@
+0,1,2,3,4,5,6,9,10,11,13,14,15,17,18,19,22,sum_visitors
+visit_year,visit_week,max_visitors,min_visitors,avg_visitors,count_visitors,sum_reserve_visitors,avg_reserve_visitors,count_reserve_visitors,holiday_flg_visit,number_of_holiday_days_visit,area_id,genre_id,number_of_restaurants_in_area,weekend_visitors,sum_diff_days_between_reserve_visit_category,min_diff_days_between_reserve_visit_category,sum_visitors
